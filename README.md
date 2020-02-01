@@ -20,7 +20,7 @@ commands = [
 
 ### Example 1
 
-Whereas previously 'sniff rose' would have been an unacceptable command, due the parser's improved functionality, the game is now able to map 'sniff rose' to the pre-defined command 'smell rose'. Not also that 'smell flower' relies on the hyponym-hypernym relationship between rose and flower to correctly parse the commmand as being equal to 'smell rose'. Additionally, adding an adjective such as 'fragrant' to the command does not cause the parser to break, since the Word2Vec embedding similarity between 'smell the fragrant flower' and 'smell rose' exceeds 0.5. This makes the parser robust to noisy input.
+Whereas previously 'sniff rose' would have been an unacceptable command, due the parser's improved functionality, the game is now able to map 'sniff rose' to the pre-defined command 'smell rose'. Not also that 'smell flower' relies on the hyponym-hypernym relationship between 'rose' and 'flower' to correctly parse the commmand as being equal to 'smell rose'. Additionally, adding an adjective such as 'fragrant' to the command does not cause the parser to break, since the Word2Vec embedding similarity between 'smell the fragrant flower' and 'smell rose' exceeds 0.5. This makes the parser robust to noisy input.
 
 ```
 You are standing in a small cottage.
