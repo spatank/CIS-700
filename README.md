@@ -22,7 +22,9 @@ commands = [
 
 There are now two ways to beat the guard in the courtyard of Action Castle. Formerly, a stout branch was required to attack the guard. Now, the guard can be beaten by talking to the guard and insulting him. If the sentiment in the user's comment to the guard is negative, the guard becomes distraught and abandons his post, dropping the key to the tower room where the princess is held. 
 
-### Example 1: The following example demonstrates how a conversation may be begun and ended with the guard. In the event of a user comment with a positive sentiment, the game keeps seeking further input. In the event of a negative comment, the guard is beaten as described above.
+### Example 1 
+
+The following example demonstrates how a conversation may be begun and ended with the guard. In the event of a user comment with a positive sentiment, the game keeps seeking further input. In the event of a negative comment, the guard is beaten as described above.
 
 ```
 You are in the courtyard of ACTION CASTLE.
