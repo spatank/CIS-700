@@ -1,9 +1,11 @@
 # InteractiveFictionCIS700
 Interactive Fiction and Text Generation
 
-Improved Parser Support 
+## Improved Parser Support 
 
-- support for the Action Castle parser is improved using WordNet 
+* support for the Action Castle parser is improved using WordNet 
+
+```
 commands = [
 	'wear crown',
 	'smell rose',
@@ -13,3 +15,4 @@ commands = [
 	'propose to the princess',
 	'go north',
 ]
+```
