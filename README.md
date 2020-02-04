@@ -1,4 +1,4 @@
-# Interactive Fiction CIS700: Improved Action Castle
+# Interactive Fiction CIS-700: Improved Action Castle
 Interactive Fiction and Text Generation
 
 ## Improved Parser Support 
