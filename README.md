@@ -1,4 +1,4 @@
-# CIS-700
+# CIS-700: Interactive Fiction and Text Generation
 
 ## Homework 1
 Implementation of the ActionCastle text adventure game.
