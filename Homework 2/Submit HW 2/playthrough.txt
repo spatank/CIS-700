@@ -1,0 +1,1 @@
+Please include the file alternative_commands.json in the directory where action_castle_improved.ipynb is being run from. It contains all annotated parallel commands for a subset of the game's known commands. All other gameplay functionality is identical to action_castle.ipynb.

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d0"/>
+<graph edgedefault="directed"><node id="want"/>
+<node id="know"/>
+<node id="m"/>
+<node id="look"/>
+<node id="have"/>
+<node id="smile"/>
+<node id="post"/>
+<node id="leave"/>
+<node id="promise"/>
+<node id="update"/>
+<node id="get"/>
+<node id="COREF_CLUSTER_77"/>
+<node id="deserve"/>
+<node id="try"/>
+<node id="finish"/>
+<node id="realize"/>
+<node id="pack"/>
+<node id="sigh"/>
+<node id="give"/>
+<node id="continue"/>
+<node id="walk"/>
+<node id="manage"/>
+<node id="make"/>
+<node id="think"/>
+<node id="deal"/>
+<node id="nod"/>
+<node id="sleep"/>
+<node id="stomp"/>
+<node id="be"/>
+<node id="say"/>
+<node id="stay"/>
+<node id="force"/>
+<node id="fell"/>
+<node id="love"/>
+<node id="hear"/>
+<edge source="want" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="deal">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="m">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="COREF_CLUSTER_77">
+  <data key="d0">1</data>
+</edge>
+<edge source="m" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="have">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="realize">
+  <data key="d0">1</data>
+</edge>
+<edge source="have" target="smile">
+  <data key="d0">1</data>
+</edge>
+<edge source="smile" target="post">
+  <data key="d0">1</data>
+</edge>
+<edge source="post" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="promise">
+  <data key="d0">1</data>
+</edge>
+<edge source="promise" target="update">
+  <data key="d0">1</data>
+</edge>
+<edge source="update" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="pack">
+  <data key="d0">1</data>
+</edge>
+<edge source="COREF_CLUSTER_77" target="deserve">
+  <data key="d0">1</data>
+</edge>
+<edge source="deserve" target="try">
+  <data key="d0">1</data>
+</edge>
+<edge source="try" target="finish">
+  <data key="d0">1</data>
+</edge>
+<edge source="finish" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="realize" target="pack">
+  <data key="d0">1</data>
+</edge>
+<edge source="pack" target="sigh">
+  <data key="d0">1</data>
+</edge>
+<edge source="pack" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="sigh" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="give" target="continue">
+  <data key="d0">1</data>
+</edge>
+<edge source="continue" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="manage">
+  <data key="d0">1</data>
+</edge>
+<edge source="manage" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="want">
+  <data key="d0">1</data>
+</edge>
+<edge source="deal" target="nod">
+  <data key="d0">1</data>
+</edge>
+<edge source="nod" target="sleep">
+  <data key="d0">1</data>
+</edge>
+<edge source="sleep" target="stomp">
+  <data key="d0">1</data>
+</edge>
+<edge source="stomp" target="be">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="stay">
+  <data key="d0">1</data>
+</edge>
+<edge source="stay" target="force">
+  <data key="d0">1</data>
+</edge>
+<edge source="force" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="fell" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="love" target="hear">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

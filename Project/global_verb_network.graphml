@@ -1,0 +1,975 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d0"/>
+<graph edgedefault="directed"><node id="'m"/>
+<node id="'s"/>
+<node id="COREF_CLUSTER_77"/>
+<node id="Dom"/>
+<node id="Hogwarts"/>
+<node id="Hope"/>
+<node id="James"/>
+<node id="Remus"/>
+<node id="Thank"/>
+<node id="Trust"/>
+<node id="Voldemort"/>
+<node id="a bushy haired heap crumple onto the cobblestone street"/>
+<node id="abandon"/>
+<node id="add"/>
+<node id="adore"/>
+<node id="agree"/>
+<node id="apparated"/>
+<node id="appreciate"/>
+<node id="arrive"/>
+<node id="ask"/>
+<node id="avoid"/>
+<node id="back"/>
+<node id="be"/>
+<node id="bear"/>
+<node id="become"/>
+<node id="begin"/>
+<node id="behave"/>
+<node id="bother"/>
+<node id="break"/>
+<node id="breathe"/>
+<node id="call"/>
+<node id="can"/>
+<node id="catch"/>
+<node id="change"/>
+<node id="climb"/>
+<node id="close"/>
+<node id="come"/>
+<node id="compel"/>
+<node id="confirm"/>
+<node id="continue"/>
+<node id="cover"/>
+<node id="crawl"/>
+<node id="dance"/>
+<node id="deal"/>
+<node id="delete"/>
+<node id="deserve"/>
+<node id="die"/>
+<node id="disappear"/>
+<node id="disapperated"/>
+<node id="distract"/>
+<node id="do"/>
+<node id="drag"/>
+<node id="drift"/>
+<node id="entertainment-"/>
+<node id="erase"/>
+<node id="face"/>
+<node id="fail"/>
+<node id="fall"/>
+<node id="feel"/>
+<node id="fell"/>
+<node id="felt"/>
+<node id="fill"/>
+<node id="find"/>
+<node id="finish"/>
+<node id="flow"/>
+<node id="fold"/>
+<node id="follow"/>
+<node id="force"/>
+<node id="form"/>
+<node id="gain"/>
+<node id="get"/>
+<node id="give"/>
+<node id="go"/>
+<node id="grab"/>
+<node id="grow"/>
+<node id="guess"/>
+<node id="hat"/>
+<node id="hate"/>
+<node id="have"/>
+<node id="head"/>
+<node id="hear"/>
+<node id="hide"/>
+<node id="hit"/>
+<node id="hold"/>
+<node id="hop"/>
+<node id="hope"/>
+<node id="hug"/>
+<node id="imagine"/>
+<node id="improve"/>
+<node id="involve"/>
+<node id="join"/>
+<node id="keep"/>
+<node id="kick"/>
+<node id="kill"/>
+<node id="know"/>
+<node id="laugh"/>
+<node id="lay"/>
+<node id="lead"/>
+<node id="lean"/>
+<node id="leave"/>
+<node id="let"/>
+<node id="light"/>
+<node id="like"/>
+<node id="link"/>
+<node id="look"/>
+<node id="lose"/>
+<node id="love"/>
+<node id="lug"/>
+<node id="m"/>
+<node id="make"/>
+<node id="manage"/>
+<node id="mark"/>
+<node id="matter"/>
+<node id="mean"/>
+<node id="mess"/>
+<node id="move"/>
+<node id="mutter"/>
+<node id="narrow"/>
+<node id="need"/>
+<node id="nod"/>
+<node id="notice"/>
+<node id="pack"/>
+<node id="plan"/>
+<node id="please"/>
+<node id="post"/>
+<node id="prepare"/>
+<node id="press"/>
+<node id="promise"/>
+<node id="push"/>
+<node id="put"/>
+<node id="raise"/>
+<node id="rant"/>
+<node id="read"/>
+<node id="realize"/>
+<node id="rejoin"/>
+<node id="review"/>
+<node id="run"/>
+<node id="sag"/>
+<node id="save"/>
+<node id="saw"/>
+<node id="say"/>
+<node id="scar"/>
+<node id="see"/>
+<node id="set"/>
+<node id="share"/>
+<node id="shout"/>
+<node id="sigh"/>
+<node id="sink"/>
+<node id="sit"/>
+<node id="skip"/>
+<node id="slam"/>
+<node id="sleep"/>
+<node id="slip"/>
+<node id="smile"/>
+<node id="spot"/>
+<node id="stand"/>
+<node id="star"/>
+<node id="start"/>
+<node id="stay"/>
+<node id="step"/>
+<node id="stomp"/>
+<node id="stop"/>
+<node id="storm"/>
+<node id="stride"/>
+<node id="surround"/>
+<node id="sway"/>
+<node id="swim"/>
+<node id="sympathize"/>
+<node id="take"/>
+<node id="talk"/>
+<node id="tame"/>
+<node id="tap"/>
+<node id="teach"/>
+<node id="tell"/>
+<node id="thank"/>
+<node id="the two people he knew"/>
+<node id="think"/>
+<node id="throw"/>
+<node id="trail"/>
+<node id="travel"/>
+<node id="try"/>
+<node id="turn"/>
+<node id="understand"/>
+<node id="update"/>
+<node id="visit"/>
+<node id="wake"/>
+<node id="walk"/>
+<node id="want"/>
+<node id="watch"/>
+<node id="welcome"/>
+<node id="whisper"/>
+<node id="wonder"/>
+<node id="worry"/>
+<node id="write"/>
+<node id="yell"/>
+<edge source="'m" target="hear">
+  <data key="d0">1</data>
+</edge>
+<edge source="'m" target="update">
+  <data key="d0">1</data>
+</edge>
+<edge source="COREF_CLUSTER_77" target="deserve">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hogwarts" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="James" target="head">
+  <data key="d0">1</data>
+</edge>
+<edge source="Voldemort" target="apparated">
+  <data key="d0">1</data>
+</edge>
+<edge source="abandon" target="come">
+  <data key="d0">1</data>
+</edge>
+<edge source="adore" target="light">
+  <data key="d0">1</data>
+</edge>
+<edge source="adore" target="improve">
+  <data key="d0">1</data>
+</edge>
+<edge source="apparated" target="kill">
+  <data key="d0">1</data>
+</edge>
+<edge source="ask" target="be">
+  <data key="d0">1</data>
+</edge>
+<edge source="ask" target="join">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="storm">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="lose">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="go">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="felt">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="kick">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="spot">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="become">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="link">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="want">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="try">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="agree">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="hit">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="be" target="save">
+  <data key="d0">1</data>
+</edge>
+<edge source="bear" target="be">
+  <data key="d0">1</data>
+</edge>
+<edge source="bother" target="go">
+  <data key="d0">1</data>
+</edge>
+<edge source="bother" target="stay">
+  <data key="d0">1</data>
+</edge>
+<edge source="breathe" target="sink">
+  <data key="d0">1</data>
+</edge>
+<edge source="can" target="be">
+  <data key="d0">1</data>
+</edge>
+<edge source="catch" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="head">
+  <data key="d0">1</data>
+</edge>
+<edge source="climb" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="come" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="continue" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="continue" target="have">
+  <data key="d0">1</data>
+</edge>
+<edge source="continue" target="read">
+  <data key="d0">1</data>
+</edge>
+<edge source="continue" target="stay">
+  <data key="d0">1</data>
+</edge>
+<edge source="crawl" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="dance" target="do">
+  <data key="d0">1</data>
+</edge>
+<edge source="deal" target="nod">
+  <data key="d0">1</data>
+</edge>
+<edge source="deal" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="delete" target="add">
+  <data key="d0">1</data>
+</edge>
+<edge source="deserve" target="try">
+  <data key="d0">1</data>
+</edge>
+<edge source="die" target="hope">
+  <data key="d0">1</data>
+</edge>
+<edge source="disappear" target="begin">
+  <data key="d0">1</data>
+</edge>
+<edge source="disappear" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="do" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="do" target="finish">
+  <data key="d0">1</data>
+</edge>
+<edge source="do" target="sag">
+  <data key="d0">1</data>
+</edge>
+<edge source="drift" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="erase" target="mark">
+  <data key="d0">1</data>
+</edge>
+<edge source="face" target="keep">
+  <data key="d0">1</data>
+</edge>
+<edge source="fail" target="notice">
+  <data key="d0">1</data>
+</edge>
+<edge source="feel" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="feel" target="dance">
+  <data key="d0">1</data>
+</edge>
+<edge source="fell" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="fell" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="fell" target="sleep">
+  <data key="d0">1</data>
+</edge>
+<edge source="fell" target="hear">
+  <data key="d0">1</data>
+</edge>
+<edge source="felt" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="fill" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="find" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="finish" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="follow" target="face">
+  <data key="d0">1</data>
+</edge>
+<edge source="force" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="form" target="mutter">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="know">
+  <data key="d0">2</data>
+</edge>
+<edge source="get" target="pack">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="promise">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="be">
+  <data key="d0">2</data>
+</edge>
+<edge source="get" target="saw">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="go">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="hop">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="give" target="continue">
+  <data key="d0">1</data>
+</edge>
+<edge source="give" target="wonder">
+  <data key="d0">1</data>
+</edge>
+<edge source="go" target="have">
+  <data key="d0">1</data>
+</edge>
+<edge source="go" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="grab" target="lead">
+  <data key="d0">1</data>
+</edge>
+<edge source="grab" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="grab" target="drag">
+  <data key="d0">1</data>
+</edge>
+<edge source="grow" target="join">
+  <data key="d0">1</data>
+</edge>
+<edge source="guess" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="hat" target="want">
+  <data key="d0">1</data>
+</edge>
+<edge source="hate" target="continue">
+  <data key="d0">1</data>
+</edge>
+<edge source="have" target="smile">
+  <data key="d0">1</data>
+</edge>
+<edge source="have" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="have" target="drift">
+  <data key="d0">1</data>
+</edge>
+<edge source="have" target="adore">
+  <data key="d0">1</data>
+</edge>
+<edge source="have" target="fall">
+  <data key="d0">1</data>
+</edge>
+<edge source="head" target="hope">
+  <data key="d0">1</data>
+</edge>
+<edge source="hear" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="hear" target="want">
+  <data key="d0">1</data>
+</edge>
+<edge source="hear" target="stay">
+  <data key="d0">1</data>
+</edge>
+<edge source="hit" target="stand">
+  <data key="d0">1</data>
+</edge>
+<edge source="hop" target="write">
+  <data key="d0">1</data>
+</edge>
+<edge source="hop" target="share">
+  <data key="d0">1</data>
+</edge>
+<edge source="hope" target="hate">
+  <data key="d0">1</data>
+</edge>
+<edge source="hope" target="be">
+  <data key="d0">1</data>
+</edge>
+<edge source="hope" target="adore">
+  <data key="d0">1</data>
+</edge>
+<edge source="hug" target="yell">
+  <data key="d0">1</data>
+</edge>
+<edge source="imagine" target="lean">
+  <data key="d0">1</data>
+</edge>
+<edge source="improve" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="involve" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="join" target="Voldemort">
+  <data key="d0">1</data>
+</edge>
+<edge source="join" target="be">
+  <data key="d0">1</data>
+</edge>
+<edge source="keep" target="ask">
+  <data key="d0">1</data>
+</edge>
+<edge source="kick" target="go">
+  <data key="d0">1</data>
+</edge>
+<edge source="kill" target="do">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="lug">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="m">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="COREF_CLUSTER_77">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="be">
+  <data key="d0">2</data>
+</edge>
+<edge source="know" target="imagine">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="have">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="lay" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="lay" target="star">
+  <data key="d0">1</data>
+</edge>
+<edge source="lay" target="lose">
+  <data key="d0">1</data>
+</edge>
+<edge source="lead" target="hug">
+  <data key="d0">1</data>
+</edge>
+<edge source="lean" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="promise">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="abandon">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="fill">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="bother">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="stop">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="grow">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="try">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="travel">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="shout">
+  <data key="d0">1</data>
+</edge>
+<edge source="let" target="start">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="read">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="link" target="skip">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="have">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="realize">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="wake">
+  <data key="d0">1</data>
+</edge>
+<edge source="lose" target="gain">
+  <data key="d0">1</data>
+</edge>
+<edge source="lose" target="fail">
+  <data key="d0">1</data>
+</edge>
+<edge source="love" target="hear">
+  <data key="d0">2</data>
+</edge>
+<edge source="love" target="die">
+  <data key="d0">1</data>
+</edge>
+<edge source="love" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="lug" target="bother">
+  <data key="d0">1</data>
+</edge>
+<edge source="m" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="hope">
+  <data key="d0">1</data>
+</edge>
+<edge source="manage" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="mess" target="continue">
+  <data key="d0">1</data>
+</edge>
+<edge source="mutter" target="write">
+  <data key="d0">1</data>
+</edge>
+<edge source="narrow" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="continue">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="smile">
+  <data key="d0">1</data>
+</edge>
+<edge source="nod" target="sleep">
+  <data key="d0">1</data>
+</edge>
+<edge source="pack" target="sigh">
+  <data key="d0">1</data>
+</edge>
+<edge source="pack" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="plan" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="post" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="post" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="prepare" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="promise" target="update">
+  <data key="d0">1</data>
+</edge>
+<edge source="promise" target="'m">
+  <data key="d0">1</data>
+</edge>
+<edge source="push" target="hop">
+  <data key="d0">1</data>
+</edge>
+<edge source="put" target="start">
+  <data key="d0">1</data>
+</edge>
+<edge source="raise" target="grab">
+  <data key="d0">1</data>
+</edge>
+<edge source="read" target="run">
+  <data key="d0">1</data>
+</edge>
+<edge source="read" target="post">
+  <data key="d0">1</data>
+</edge>
+<edge source="realize" target="pack">
+  <data key="d0">1</data>
+</edge>
+<edge source="rejoin" target="be">
+  <data key="d0">1</data>
+</edge>
+<edge source="run" target="slam">
+  <data key="d0">1</data>
+</edge>
+<edge source="sag" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="saw" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="saw" target="hear">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="stay">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="plan">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="write">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="feel">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="deal">
+  <data key="d0">1</data>
+</edge>
+<edge source="scar" target="mess">
+  <data key="d0">1</data>
+</edge>
+<edge source="see" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="set" target="see">
+  <data key="d0">1</data>
+</edge>
+<edge source="share" target="understand">
+  <data key="d0">1</data>
+</edge>
+<edge source="sigh" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="sink" target="watch">
+  <data key="d0">1</data>
+</edge>
+<edge source="sit" target="fold">
+  <data key="d0">1</data>
+</edge>
+<edge source="sleep" target="stomp">
+  <data key="d0">1</data>
+</edge>
+<edge source="slip" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="smile" target="post">
+  <data key="d0">1</data>
+</edge>
+<edge source="smile" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="smile" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="spot" target="Hogwarts">
+  <data key="d0">1</data>
+</edge>
+<edge source="stand" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="star" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="star" target="narrow">
+  <data key="d0">1</data>
+</edge>
+<edge source="start" target="smile">
+  <data key="d0">1</data>
+</edge>
+<edge source="start" target="sway">
+  <data key="d0">1</data>
+</edge>
+<edge source="stay" target="force">
+  <data key="d0">1</data>
+</edge>
+<edge source="stay" target="let">
+  <data key="d0">1</data>
+</edge>
+<edge source="stay" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="stay" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="step" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="stomp" target="be">
+  <data key="d0">1</data>
+</edge>
+<edge source="stop" target="follow">
+  <data key="d0">1</data>
+</edge>
+<edge source="storm" target="tell">
+  <data key="d0">1</data>
+</edge>
+<edge source="stride" target="disapperated">
+  <data key="d0">1</data>
+</edge>
+<edge source="sway" target="feel">
+  <data key="d0">1</data>
+</edge>
+<edge source="sympathize" target="involve">
+  <data key="d0">1</data>
+</edge>
+<edge source="talk" target="read">
+  <data key="d0">1</data>
+</edge>
+<edge source="tap" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="teach" target="smile">
+  <data key="d0">1</data>
+</edge>
+<edge source="tell" target="hat">
+  <data key="d0">1</data>
+</edge>
+<edge source="tell" target="can">
+  <data key="d0">1</data>
+</edge>
+<edge source="tell" target="lay">
+  <data key="d0">1</data>
+</edge>
+<edge source="the two people he knew" target="distract">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="want">
+  <data key="d0">2</data>
+</edge>
+<edge source="think" target="be">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="scar">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="catch">
+  <data key="d0">1</data>
+</edge>
+<edge source="travel" target="have">
+  <data key="d0">1</data>
+</edge>
+<edge source="try" target="finish">
+  <data key="d0">1</data>
+</edge>
+<edge source="try" target="push">
+  <data key="d0">1</data>
+</edge>
+<edge source="try" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="try" target="stay">
+  <data key="d0">1</data>
+</edge>
+<edge source="turn" target="run">
+  <data key="d0">1</data>
+</edge>
+<edge source="turn" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="understand" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="update" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="update" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="visit" target="teach">
+  <data key="d0">1</data>
+</edge>
+<edge source="wake" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="manage">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="step">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="tap">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="see">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="share">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="form">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="rejoin">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="saw">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="know">
+  <data key="d0">3</data>
+</edge>
+<edge source="want" target="deal">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="tell">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="hear">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="whisper" target="stride">
+  <data key="d0">1</data>
+</edge>
+<edge source="write" target="tell">
+  <data key="d0">1</data>
+</edge>
+<edge source="write" target="put">
+  <data key="d0">1</data>
+</edge>
+<edge source="yell" target="disappear">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

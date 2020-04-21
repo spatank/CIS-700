@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d0"/>
+<graph edgedefault="directed"><node id="want"/>
+<node id="tell"/>
+<node id="hat"/>
+<node id="walk"/>
+<node id="leave"/>
+<node id="abandon"/>
+<node id="come"/>
+<node id="need"/>
+<node id="continue"/>
+<node id="have"/>
+<node id="say"/>
+<node id="plan"/>
+<node id="get"/>
+<node id="give"/>
+<node id="wonder"/>
+<edge source="want" target="tell">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="tell" target="hat">
+  <data key="d0">1</data>
+</edge>
+<edge source="hat" target="want">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="abandon">
+  <data key="d0">1</data>
+</edge>
+<edge source="abandon" target="come">
+  <data key="d0">1</data>
+</edge>
+<edge source="come" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="continue">
+  <data key="d0">1</data>
+</edge>
+<edge source="continue" target="have">
+  <data key="d0">1</data>
+</edge>
+<edge source="have" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="plan">
+  <data key="d0">1</data>
+</edge>
+<edge source="plan" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="give" target="wonder">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>
